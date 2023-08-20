@@ -21,11 +21,12 @@ It contains three challenges:
 
 * Git clone this repository into your local machine
 ```bash
-$ git clone https://github.com/JOY19ANYANGO/voyage-trvl.git
+$  git clone https://github.com/JOY19ANYANGO/pyton-wk1-challenge.git
+
 ```
 * Navigate into this folder.
 ```bash
-$ cd voyage-trvl
+$ cd pyton-wk1-challenge
 ```
 * Open in your vs code
 ```bash
